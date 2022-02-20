@@ -20,4 +20,4 @@ And also I am interested in learning about blockchain technology.
 
 ### Сompleted courses:
 1. [Open Data Science Cource made by Юрий Кашницкий (@yorko)](https://habr.com/ru/company/ods/blog/322626/).
-2. Graph theory (HSE/Sber Univirsity)
+2. [Graph theory (HSE/Sber Univirsity)](https://github.com/yaruslove/graph_theory)
