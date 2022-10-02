@@ -19,5 +19,9 @@ And also I am interested in learning about blockchain technology.
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 
 ### Сompleted courses:
-1. [Open Data Science Cource made by Юрий Кашницкий (@yorko)](https://habr.com/ru/company/ods/blog/322626/).
-2. [Graph theory (HSE/Sber Univirsity)](https://github.com/yaruslove/graph_theory)
+1. [Open Data Science Cource made by Юрий Кашницкий (@yorko)](https://habr.com/ru/company/ods/blog/322626/) 2020
+2. [Graph theory (HSE/Sber Univirsity)](https://github.com/yaruslove/graph_theory) 2022
+3. [Awesome OOP in Python https://stepik.org : " Добрый, добрый Python ООП"](https://stepik.org/cert/1620218) 2022
+```
+https://github.com/yaruslove/oop_in_python
+```
