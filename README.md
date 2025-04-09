@@ -33,7 +33,7 @@ And also I am interested in learning about blockchain technology.
 2. [Speed up video encode/decode opencv+gstreamer](https://github.com/yaruslove/opencv_gstreamer)
 2. [Label Studio tolls](https://github.com/yaruslove/label-studio)
 2. [Algorithm check point in polygon ](https://github.com/yaruslove/search_algorithm_point_in_polygon)
-3. [Image classifer with optuna](https://github.com/yaruslove/train_image_classifer_optuna/settings)
+3. [Image classifer with optuna](https://github.com/yaruslove/train_image_classifer_optuna)
 
 ## Articles
 1. [Нейронные сети не могут обобщать периодические зависимости. Как это исправить?](https://habr.com/ru/articles/745768/)  
