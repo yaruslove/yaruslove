@@ -22,17 +22,17 @@ And also I am interested in learning about blockchain technology.
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 
 ## Hackathon participation 💻
-- [Kryptonite ML Challenge](https://codenrock.com/contests/kryptonite-ml-challenge/info) @ Face recognition with deep-fake командой 2 человека взяли 6 место, (5 по метрике) 2025
+- [Kryptonite ML Challenge](https://codenrock.com/contests/kryptonite-ml-challenge/info) @ Face recognition with deep-fake 6 место, (5 по метрике) 2025
 - [Система видеодетекции вооруженных людей](https://i.moscow/lct/krasnodar) @ 2023
 - [deNews](https://ethglobal.com/showcase/denews-djqvk) @ ETHOnline 2022
 
 ## Useful Computer vision tools⚒️:
 1. [My repo collect usefull tools for Computer vision Enginer](https://github.com/yaruslove/tools-for-CV-Enginer)
-2. [Understanding base CV DL layers](https://github.com/yaruslove/pretty_neural_net)
+2. [From scratch on Numpy CV DL layers](https://github.com/yaruslove/pretty_neural_net)
 2. [Metric Learning for face recognition](https://github.com/yaruslove/metric_learning)
 2. [Speed up video encode/decode opencv+gstreamer](https://github.com/yaruslove/opencv_gstreamer)
 2. [Label Studio tolls](https://github.com/yaruslove/label-studio)
-2. [Algorithm check point in polygon ](https://github.com/yaruslove/search_algorithm_point_in_polygon)
+2. [Algorithm check point in polygon](https://github.com/yaruslove/search_algorithm_point_in_polygon)
 3. [Image classifer with optuna](https://github.com/yaruslove/train_image_classifer_optuna)
 
 ## Articles
